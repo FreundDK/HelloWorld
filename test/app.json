@@ -1,10 +1,10 @@
 {
-    "id":  "00000000-0000-0000-0000-000000000002",
-    "name":  "Default Test App Name",
-    "publisher":  "Default Publisher",
+    "id":  "a6413305-092f-478b-a6ee-e8867853cf02",
+    "name":  "My Test App",
+    "publisher":  "My Name",
     "brief":  "",
     "description":  "",
-    "version":  "2.0.0.0",
+    "version":  "1.0.0.0",
     "privacyStatement":  "",
     "EULA":  "",
     "help":  "",
@@ -30,10 +30,10 @@
                              "version":  "16.0.0.0"
                          },
                          {
-                             "name":  "Default App Name",
-                             "publisher":  "Default Publisher",
-                             "version":  "2.0.0.0",
-                             "appId":  "00000000-0000-0000-0000-000000000001"
+                             "name":  "My App",
+                             "publisher":  "My Name",
+                             "version":  "1.0.0.0",
+                             "appId":  "3b7c1e0f-c5aa-4af2-920a-cab8b24af9ec"
                          }
                      ],
     "screenshots":  [
@@ -43,8 +43,8 @@
     "platform":  "16.0.0.0",
     "idRanges":  [
                      {
-                         "from":  50100,
-                         "to":  50149
+                         "from":  80100,
+                         "to":  80149
                      }
                  ],
     "runtime":  "4.0",
